@@ -5,7 +5,7 @@ description: Skyblock Sandbox main plugin
 api-version: 1.16
 author: Prince
 prefix: SkyblockSandbox
-commands:
+commands: /hub, /dh, /is, /spawn, /
   spawnmob:
   createsword:
   reforge:
